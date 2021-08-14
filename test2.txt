@@ -8,3 +8,5 @@ This is Second Start!
 This is test for version2
 Thank you for Testing
 
+[master]
+This is Conflit test again
