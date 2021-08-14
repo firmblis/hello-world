@@ -8,3 +8,6 @@ This is Second Start!
 This is test for version2
 Thank you for Testing
 
+[conflitTest]
+branch version is conflitTest
+hahaha
