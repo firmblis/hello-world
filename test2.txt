@@ -1,4 +1,10 @@
 test2test2
 test2
 
+[master]
 This is Second Start!
+
+[branch version2]
+This is test for version2
+Thank you for Testing
+
